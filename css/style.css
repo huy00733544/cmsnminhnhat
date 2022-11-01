@@ -46,6 +46,12 @@ div#video iframe {
   left: 40px;
   width: 140px;
 }
+#avatar {
+  position: absolute;
+  margin-left: -80px;
+  left: 30%;
+}
+
 
 #car {
   position: absolute;
